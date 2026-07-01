@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0019/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五千五百佛名神呪除障滅罪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0443.xml
+    old_id: T14n0443
+hash: sha256:f3b1f67e3983448cd498f25270b877ad4faa097c31dd970a9eb25e57fd79775a

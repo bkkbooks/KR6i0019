@@ -1,0 +1,130 @@
+canonical_identifier: bkk:krp/KR6i0019/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0019/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五千五百佛名神呪除障滅罪經
+  identifiers:
+    krp: KR6i0019
+    cbeta: T14n0443
+    cbeta_old_id: T14n0443
+    authorityid: CA0003485
+    json_key: T0443
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0443.xml
+    old_id: T14n0443
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0019_000-T.yaml, hash: 'sha256:f3b1f67e3983448cd498f25270b877ad4faa097c31dd970a9eb25e57fd79775a'}
+  - {seq: 1, filename: KR6i0019_001-T.yaml, hash: 'sha256:7395fb5cc9e78b470005cf55cec80c0a8cb93f1cc159e07c4f8091145ec7eb37'}
+  - {seq: 2, filename: KR6i0019_002-T.yaml, hash: 'sha256:2fb397916b44ab6d8db3465b67bd8252bd904f46e68b20f7430bfa5324866800'}
+  - {seq: 3, filename: KR6i0019_003-T.yaml, hash: 'sha256:7bddb86a4c71b71cd8355b77830b128df81af4d7c93ae4578d3826b14cd606fc'}
+  - {seq: 4, filename: KR6i0019_004-T.yaml, hash: 'sha256:4ae36a762f5cb976b48d08029c02bacb4f80ee00c72f8721fc9389ae75bfefc8'}
+  - {seq: 5, filename: KR6i0019_005-T.yaml, hash: 'sha256:c288212c09e7487bb9bc6a9566e02f6fef76aed3dbd49fad5ec35f5ad2904f7e'}
+  - {seq: 6, filename: KR6i0019_006-T.yaml, hash: 'sha256:79307c944de06e047f8f4019456dba77099887a4a4c2160c9d44ca0f4bdbe288'}
+  - {seq: 7, filename: KR6i0019_007-T.yaml, hash: 'sha256:e5cf74150f07f36dbdf1c4a8337fdb11392c10a9650e36fc79034644a495b74a'}
+  - {seq: 8, filename: KR6i0019_008-T.yaml, hash: 'sha256:1f831f757e7b5111499e5e0f91f91391b42b47d7da24cbe583df6dfa0e64da7c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0019_000-T.markers.yaml, hash: 'sha256:e035bc0b2a4c15af50c3529b0f19ea15ace1dc3cf16ca16f7527267dd5097ad5'}
+  - {seq: 1, role: markers, filename: assets/KR6i0019_001-T.markers.yaml, hash: 'sha256:996891230e757e154c32f0dc8e8a19d9b3881c9b5dc77689120c112bf6f9ef3a'}
+  - {seq: 2, role: markers, filename: assets/KR6i0019_002-T.markers.yaml, hash: 'sha256:a57d05c0153ecc7cbfe4f5b8e7f132db1bded87efb8c84d9c185f70a16d82486'}
+  - {seq: 3, role: markers, filename: assets/KR6i0019_003-T.markers.yaml, hash: 'sha256:8faa7332f5389be8ba736fd0b9b87604758de4b53f2d2b126c992a8c6d55a735'}
+  - {seq: 4, role: markers, filename: assets/KR6i0019_004-T.markers.yaml, hash: 'sha256:fbd6dcb9cc710dea9f175cde1651ea948a427fa32c9b462b4a8f5265e863bb73'}
+  - {seq: 5, role: markers, filename: assets/KR6i0019_005-T.markers.yaml, hash: 'sha256:711e32465781ca49e27f1c74102fde6879cbb23e6b9b75f370b08ab09e523509'}
+  - {seq: 6, role: markers, filename: assets/KR6i0019_006-T.markers.yaml, hash: 'sha256:a70431189e5fe2b4dbf6617e6a401a4bfbfe9060bf1624a32f61cdeed0ada5b4'}
+  - {seq: 7, role: markers, filename: assets/KR6i0019_007-T.markers.yaml, hash: 'sha256:9d5ae91d909b5efe0b97b51e46c19d0ec2f9f2a738f0f7e48a8102d91b4c239a'}
+  - {seq: 8, role: markers, filename: assets/KR6i0019_008-T.markers.yaml, hash: 'sha256:38af9d53f0a5f9cee4d082cd0845fc08f468c92b7daf85eace9557c0ed0bcc3f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0019_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6387
+  label: '五千五百佛名神呪除障滅罪經
+
+    卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0019_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5360
+  label: 五千五百佛名經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0019_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6356
+  label: 五千五百佛名經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0019_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 7202
+  label: 五千五百佛名經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0019_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 5101
+  label: 五千五百佛名經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0019_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 5110
+  label: '五千五百佛名除障滅罪神呪經
+
+    卷第六'
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0019_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5581
+  label: '五千五百佛名除障滅罪神呪經
+
+    卷第七'
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0019_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 5662
+  label: '五千五百佛名除障滅罪神呪經
+
+    卷第八'
+  type: juan
+  level: 1
+hash: sha256:f44aa229f012254bf56eb00b825519608b5582a61885c61cbdcd8bb126d54666
